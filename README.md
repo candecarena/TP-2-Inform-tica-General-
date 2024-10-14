@@ -1,2 +1,2 @@
-# TP-2-Inform-tica-General-
-TP 2 - Informática general - Licenciatura en Artes Multimediales, UNA
+# TP2 Info Gral
+TP 2 de Informática general. Licenciatura en Artes Multimediales, UNA
